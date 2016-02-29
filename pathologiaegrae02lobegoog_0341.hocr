@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pathologiaegrae02lobegoog_0341.png"; bbox 0 0 2946 4928; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 789 1404 1762 1567">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 789 1404 1762 1567">
+     <span class='ocr_line' id='line_1_1' title="bbox 789 1404 1762 1567; baseline -0.004 1"><span class='ocrx_word' id='word_1_1' title='bbox 789 1404 795 1408; x_wconf 75' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 960 1448 1762 1567; x_wconf 64' lang='lat' dir='ltr'><strong>Emmaus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 390 1825 2335 2139">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 390 1825 2335 2139">
+     <span class='ocr_line' id='line_1_2' title="bbox 1255 1825 1470 1896; baseline -0.005 -22"><span class='ocrx_word' id='word_1_3' title='bbox 1255 1842 1264 1847; x_wconf 82' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 1317 1825 1414 1874; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1452 1878 1470 1896; x_wconf 36' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 390 2016 2335 2139; baseline -0.001 -5"><span class='ocrx_word' id='word_1_6' title='bbox 390 2016 1448 2139; x_wconf 59' lang='lat' dir='ltr'>INTERPUNO‘TIONE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1539 2048 1783 2137; x_wconf 74' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1872 2045 2335 2135; x_wconf 79' lang='lat' dir='ltr'>ENOLISI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 495 2304 2237 2393">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 495 2304 2237 2393">
+     <span class='ocr_line' id='line_1_4' title="bbox 495 2304 2237 2393; baseline -0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 495 2308 649 2392; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 703 2305 1480 2393; x_wconf 82' lang='lat' dir='ltr'>SYNALOEPHE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1534 2304 2237 2391; x_wconf 77' lang='lat' dir='ltr'>CONIUNOTA.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
